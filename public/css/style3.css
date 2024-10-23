@@ -1,0 +1,239 @@
+/*-- package --*/
+
+.rom-btm {
+    margin-top: 2em;
+	box-shadow: 0px 0px 5px -1px rgba(0, 0, 0, 0.37);
+}
+.room-bottom h3 {
+    font-size: 1.8em;
+    font-weight: 700;
+    color: #1079ad;
+}
+.room-bottom {
+    padding: 2em 0;
+}
+.rom-btm h4 {
+    font-size: 1.5em;
+    font-weight: 700;
+    color: #1079ad;
+}
+.rom-btm p {
+    font-size: 15px;
+    color: #999;
+}
+.rom-btm h6 {
+    font-size: 1em;
+    font-weight: 700;
+    margin: 0.5em 0;
+}
+.room-right {
+    text-align: right;
+    padding: 3em 2em;
+}
+
+.rom-btm h5 {
+    font-size: 1.2em;
+    font-weight: 700;
+    color: #999;
+}
+
+/*-- selectpackage--*/
+.selectroom {
+    padding: 5em 0 3em;
+}
+.selectroom_top {
+    padding: 2em;
+    box-shadow: 0px 0px 10px -4px #000;
+    margin-bottom: 2em;
+}
+
+
+.selectroom_right h2 {
+	font-size: 2.7em;
+    color:#337ab7;
+    font-weight: 700;
+    margin: 0;
+}	
+.selectroom_right h3 {
+    font-size: 1.7em;
+    font-weight: 600;
+	color: #999;
+}
+
+.selectroom_right p {
+    font-size: 15px;
+    line-height: 1.6em;
+    font-weight: 300;
+    color: #999;
+}
+
+.selectroom_right h6 {
+    font-size: 1em;
+    color: #999;
+    line-height: 1.8em;
+}
+
+
+
+
+.selectroom input[type="text"] {
+    width: 92%;
+    color: #9E9E9E;
+    outline: none;
+    font-size: 14px;
+    padding: 10px 0px;
+    border: none;
+    border-bottom:1px solid rgba(0,0,0,.12);
+    -webkit-appearance: none;
+    margin-top: 10px;
+}
+
+
+
+.rooms-top {
+    min-height: 295px;
+    padding: 12em 0 0;
+}
+
+.selectroom {
+    padding: 3em 0 1em;
+}
+
+.rom-info h3 {
+    font-size: 1.5em;
+}
+.rooms-top {
+    min-height: 247px;
+    padding: 9em 0 0;
+}
+
+.room-midle {
+    padding: 0.5em 0.5em;
+    float: left;
+    width: 51%;
+}
+.room-left {
+    float: left;
+    width: 30%;
+}
+.room-right {
+    padding: 2em 1em;
+    float: left;
+    width: 19%;
+}
+.selectroom_left {
+    padding: 0;
+    margin-bottom: 1.5em;
+}
+.selectroom_right {
+    padding: 0;
+}
+
+.rom-info p {
+    font-size: 13px;
+}
+.room-right {
+    padding: 2em 0.5em;
+}
+
+
+
+.rt-left {
+    width: 77%;
+}
+.rom-info h3 {
+    font-size: 1.3em;
+}
+.rom-info p {
+    font-size: 14px;
+}
+
+.room-right {
+    width: 20%;
+}
+.room-left {
+    width: 29%;
+}
+
+.rt-left {
+    width: 74%;
+}
+.details-left {
+    width: 33%;
+}
+.room-left {
+    width: 27%;
+}
+.room-right {
+    width: 22%;
+}
+
+.rooms-top {
+    min-height: 211px;
+    padding: 6em 0 0;
+}
+
+
+.rom-info {
+    padding: 0.7em;
+}
+.rooms-top {
+    min-height: 186px;
+    padding: 5em 0 0;
+}
+
+
+.room-left {
+    width: 100%;
+    padding: 0;
+}
+.room-midle {
+    width: 100%;
+    padding-left: 12px;
+}
+.room-right {
+    width: 100%;
+    padding: 0;
+}
+
+.selectroom_right li {
+    width: 33.33%;
+}
+.selectroom_right p {
+    font-size: 14px;
+}
+.selectroom {
+    padding: 2em 0 0em;
+}
+
+
+
+.rt-left {
+    width: 64%;
+}
+
+.rom-info h3 {
+    font-size: 0.95em;
+}
+.rom-info p {
+    font-size: 11px;
+    line-height: 1.3em;
+}
+.rooms-top {
+    min-height: 165px;
+    padding: 4em 0 0;
+}
+
+.selectroom_top {
+    padding: 1em;
+}
+
+.selectroom_right p {
+    font-size: 18px;
+}
+.selectroom_right h6 {
+    font-size: 0.9em;
+}
+.selectroom_right h3 {
+    font-size: 1.5em;
+}

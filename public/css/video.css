@@ -1,0 +1,76 @@
+.body{
+    padding: 0;
+    margin: 0;
+}
+.vid{
+    position: relative;
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    overflow: hidden;
+}
+
+.vid video
+{
+    position: absolute;
+    top: 0;
+    left: 0;
+    object-fit: cover;
+    width: 100%;
+    height: 100%;
+    opacity: 90%;
+}
+
+.vid .con
+{
+    position: relative;
+    z-index: 1;
+    max-width :1000px; ;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.vid .con h1
+{
+    margin: 0;
+    padding: 0;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif ;
+    font-size: 8em;
+    text-transform: uppercase;
+    color: rgb(253, 186, 0);
+}
+
+.vid .con h3
+{
+        margin: 0;
+        padding: 0;
+        font-size: 3.5em;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        color: cornsilk;
+}
+
+.vid .con button
+{
+        background-color: #ffb414; 
+        border: none;
+        color: white;
+        padding: 16px 32px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        text-align: center;
+        text-decoration: none;
+        text-transform: uppercase;
+        display: inline-block;
+        font-size: 30px;
+        margin: 4px 2px;
+        transition-duration: 0.4s;
+        cursor: pointer;
+      
+}
+
+.vid .con button:hover
+{
+    background-color: white; 
+    color: black; 
+}
